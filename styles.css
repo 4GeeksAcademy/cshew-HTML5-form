@@ -1,0 +1,31 @@
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.top-box {
+    background: rgb(250, 167, 167);
+    color: darkred;
+    margin: 2px;
+    padding: 1rem;
+    border-radius: 5px;
+}
+
+.smallFont {
+    font-size: 12px;
+}
+
+.greyBox {
+    width:fit-content;
+    height:fit-content;
+    background-color: dimgray;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    border-radius: 5px;
+}
+
+.tar {
+    text-align: right;
+}
